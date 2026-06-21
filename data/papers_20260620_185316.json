@@ -1,0 +1,74 @@
+[
+  {
+    "pmid": "42322170",
+    "title": "Engineered Neutrophils in Translational Medicine: Gene Editing, Nanotechnology, and AI-Driven Clinical Breakthroughs.",
+    "authors": [
+      "Jingru Chen",
+      "Jiaqi Xu",
+      "Subinuer Aikebaier",
+      "Youcai Liang",
+      "Xiaorong Zhou",
+      "Xiao Zhu",
+      "Xiaoling Ding"
+    ],
+    "abstract": "Engineered neutrophils, modified via advanced biotechnological tools, are emerging as pivotal agents in translational medicine. By integrating gene editing (e.g., CRISPR-Cas9), nanotechnology, and artificial intelligence (AI), these cells are redefining precision diagnostics and therapeutics. Gene editing enables precise reprogramming to enhance tumor-targeting, antimicrobial activity, and immune modulation. Nanotechnology facilitates neutrophil-bound drug delivery, improving targeting to inflamed or tumor sites while reducing off-target effects. Simultaneously, AI-driven platforms analyze multi-omics data to optimize engineering strategies and personalize treatments. These innovations demonstrate significant promise across clinical domains: in oncology, they deliver cytotoxic payloads and remodel the tumor microenvironment; in infectious diseases, they enhance pathogen clearance; and in autoimmune disorders, they dampen aberrant inflammatory responses. Despite this progress, challenges including off-target edits, short in vivo persistence, and immune rejection persist. The convergence of microfluidics and high-throughput screening, coupled with AI-driven monitoring, is essential to accelerate clinical translation. As interdisciplinary collaboration deepens, engineered neutrophils stand at the forefront of next-generation medicine, offering versatile, patient-tailored strategies to bridge the gap between bioengineering breakthroughs and clinical reality.",
+    "doi": "10.1002/adhm.71370",
+    "journal": "Advanced healthcare materials",
+    "publication_date": null,
+    "pdf_url": null,
+    "keywords": [
+      "artificial intelligence",
+      "cancer immunotherapy",
+      "engineered neutrophils",
+      "gene editing",
+      "nanotechnology",
+      "translational medicine"
+    ],
+    "mesh_terms": [],
+    "affiliations": [
+      "Department of Gastroenterology, Affiliated Hospital of Nantong University, Medical School of Nantong University, Nantong, China.",
+      "School of Ocean and Tropical Medicine, The Second Affiliated Hospital of Guangdong Medical University, Guangdong Medical University, Zhanjiang, China.",
+      "Department of Gastroenterology, Affiliated Hospital of Nantong University, Medical School of Nantong University, Nantong, China.",
+      "School of Ocean and Tropical Medicine, The Second Affiliated Hospital of Guangdong Medical University, Guangdong Medical University, Zhanjiang, China.",
+      "School of Ocean and Tropical Medicine, The Second Affiliated Hospital of Guangdong Medical University, Guangdong Medical University, Zhanjiang, China.",
+      "Department of Immunology, School of Medicine, Nantong University, Nantong, China.",
+      "School of Ocean and Tropical Medicine, The Second Affiliated Hospital of Guangdong Medical University, Guangdong Medical University, Zhanjiang, China.",
+      "Department of Gastroenterology, Affiliated Hospital of Nantong University, Medical School of Nantong University, Nantong, China."
+    ],
+    "language": "eng",
+    "pmc_id": null,
+    "fulltext_available": false,
+    "pdf_path": null
+  },
+  {
+    "pmid": "42321594",
+    "title": "Mesoscopic Calculation of Single Mismatches in RNA/DNA Hybrids: Strong Hydrogen Bonds of dTrG Affect CRISPR Off-Target Binding.",
+    "authors": [
+      "Maria Izabel Muniz",
+      "Erik de Oliveira Martins",
+      "Thomas Carzaniga",
+      "Stefano Marni",
+      "Marco Buscaglia",
+      "Gerald Weber"
+    ],
+    "abstract": "In nature, complementary DNA-RNA hybrids occur in several biological contexts, mainly related to transcription, replication, and gene regulation. Despite their importance, mismatches in DNA-RNA hybrids are not as well characterized as in the case of DNA-DNA or RNA-RNA pairing. Of particular concern are strong mismatches between DNA and RNA strands that may favor off-target binding in CRISPR-Cas gene editing. Here, we investigate the effect of single internal mismatches on the thermal stability of RNA/DNA sequences using a mesoscopic approach based on published melting temperatures, as well as new measurements, to estimate hydrogen bonds and stacking interaction potentials. Our results show that only dTrG base pairs have substantial hydrogen bonding, even larger than the Watson-Crick dTrA pair, while all others are negligible. However, we show that in many cases stacking provides some stability to the otherwise weaker mismatches. Our results provide an explanation for the stability of dTrG as well as why it has CRISPR editing efficiencies similar to those of perfect matches.",
+    "doi": "10.1021/acs.jpcb.6c01938",
+    "journal": "The journal of physical chemistry. B",
+    "publication_date": null,
+    "pdf_url": null,
+    "keywords": [],
+    "mesh_terms": [],
+    "affiliations": [
+      "Dipartimento di Biotecnologie Mediche e Medicina Traslazionale, Università degli Studi di Milano, 20054 Segrate, MI, Italy.",
+      "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, Campus Ribeirão das Neves, Ribeirão das Neves, MG 33805-488, Brazil.",
+      "Dipartimento di Biotecnologie Mediche e Medicina Traslazionale, Università degli Studi di Milano, 20054 Segrate, MI, Italy.",
+      "Dipartimento di Biotecnologie Mediche e Medicina Traslazionale, Università degli Studi di Milano, 20054 Segrate, MI, Italy.",
+      "Dipartimento di Biotecnologie Mediche e Medicina Traslazionale, Università degli Studi di Milano, 20054 Segrate, MI, Italy.",
+      "Departamento de Física, Universidade Federal de Minas Gerais, Belo Horizonte, MG 31270-901, Brazil."
+    ],
+    "language": "eng",
+    "pmc_id": null,
+    "fulltext_available": false,
+    "pdf_path": null
+  }
+]

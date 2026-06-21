@@ -1,0 +1,111 @@
+[
+  {
+    "pmid": "42316547",
+    "title": "Elucidating Protein Quaternary Structure in Near-Native Solution: An AI-Assisted Hydrodynamic Approach.",
+    "authors": [
+      "Wenjing Zhang",
+      "Ronghui Ma",
+      "Ting Jiang",
+      "Wei Xu"
+    ],
+    "abstract": "Elucidating the quaternary structures of protein complexes under physiological conditions remains a central challenge for structural biology. Here, we introduce an integrative analytical pipeline that combines size exclusion chromatography (SEC), Taylor dispersion analysis (TDA), native mass spectrometry (nMS), and artificial intelligence to resolve macromolecular architectures under near-native solution conditions. The workflow begins with the SEC-based separation of heterogeneous mixtures, followed by online TDA in a PEEK capillary to probe hydrodynamic behavior via laminar-flow-induced dispersion. By deconvolving pre- and postdispersion chromatograms, a system transfer function is derived and subjected to Gaussian fitting to yield precise measurements of hydrodynamic radii. These experimentally derived radii are subsequently applied as biophysical constraints in an AlphaFold 3-based structural selection process. We validated this method using a six-protein model mixture, demonstrating its ability to simultaneously determine the hydrodynamic radii of individual components within complex mixtures. The methodology was further applied to three protein complexes (FCGRT-B2M, streptavidin, and concanavalin A), allowing for the precise measurement of their oligomeric hydrodynamic radii and the determination of their quaternary structures. By bridging high-resolution analytical chemistry with AI-driven structural prediction, this strategy offers a robust experimentally grounded framework for characterizing macromolecular assemblies.",
+    "doi": "10.1021/acs.analchem.6c01433",
+    "journal": "Analytical chemistry",
+    "publication_date": null,
+    "pdf_url": null,
+    "keywords": [],
+    "mesh_terms": [],
+    "affiliations": [
+      "School of Psychology and Cognitive Sciences, Beijing Language and Culture University, Beijing 100083, China.",
+      "School of Medical Science and Engineering, Beijing Institute of Technology, Beijing 100081, China.",
+      "School of Medical Science and Engineering, Beijing Institute of Technology, Beijing 100081, China.",
+      "School of Medical Science and Engineering, Beijing Institute of Technology, Beijing 100081, China."
+    ],
+    "language": "eng",
+    "pmc_id": null,
+    "fulltext_available": false,
+    "pdf_path": null
+  },
+  {
+    "pmid": "42314984",
+    "title": "An Evolutionarily Conserved TUSC2-OSCP Interface Suggests a Mitochondrial Ca",
+    "authors": [
+      "Sergey V Ivanov",
+      "Roman V Uzhachenko",
+      "Sergei P Budko",
+      "Anil Shanker",
+      "Sanika S Chirwa",
+      "Alla V Ivanova"
+    ],
+    "abstract": "Mitochondrial ATP synthase (mATPS) has the capacity to regulate the permeability transition pore (mPTP) during Ca",
+    "doi": "10.1016/j.jmb.2026.169911",
+    "journal": "Journal of molecular biology",
+    "publication_date": null,
+    "pdf_url": null,
+    "keywords": [
+      "AlphaFold structural modeling",
+      "OSCP (ATP5PO)",
+      "TUSC2 (FUS1)",
+      "aging",
+      "calcium-binding motif",
+      "evolutionary conservation",
+      "metal ion coordination",
+      "mitochondrial ATP synthase",
+      "mitochondrial permeability transition pore (mPTP)",
+      "oxidative stress"
+    ],
+    "mesh_terms": [],
+    "affiliations": [
+      "Department of Biochemistry, Cancer Biology, Neuroscience, and Pharmacology, School of Medicine, Meharry Medical College, 1005 D.B. Todd Jr. Blvd, Nashville, TN 37208, USA. Electronic address: sergey.ivanov@mmc.edu.",
+      "Department of Biochemistry, Cancer Biology, Neuroscience, and Pharmacology, School of Medicine, Meharry Medical College, 1005 D.B. Todd Jr. Blvd, Nashville, TN 37208, USA.",
+      "Department of Medicine, Division of Nephrology and Hypertension, Vanderbilt University Medical Center, Nashville, TN 37232, USA; Center for Matrix Biology, Vanderbilt University Medical Center, Nashville, TN 37232, USA; Department of Biochemistry, Center for Structural Biology, Vanderbilt University, Nashville, TN 37232, USA.",
+      "Department of Biochemistry, Cancer Biology, Neuroscience, and Pharmacology, School of Medicine, Meharry Medical College, 1005 D.B. Todd Jr. Blvd, Nashville, TN 37208, USA; Department of Biomedical Sciences, School of Graduate Studies, Meharry Medical College, Nashville, TN 37208, USA; The Office for Research and Innovation, Meharry Medical College, Nashville, TN 37208, USA.",
+      "Department of Biochemistry, Cancer Biology, Neuroscience, and Pharmacology, School of Medicine, Meharry Medical College, 1005 D.B. Todd Jr. Blvd, Nashville, TN 37208, USA.",
+      "Department of Biochemistry, Cancer Biology, Neuroscience, and Pharmacology, School of Medicine, Meharry Medical College, 1005 D.B. Todd Jr. Blvd, Nashville, TN 37208, USA."
+    ],
+    "language": "eng",
+    "pmc_id": null,
+    "fulltext_available": false,
+    "pdf_path": null
+  },
+  {
+    "pmid": "42321941",
+    "title": "Generating models for isoform-specific PKM-KIBRA interactions with BIFC, stabilization and AlphaFold 3.",
+    "authors": [
+      "Edna Amoah",
+      "Tyler W Dunn",
+      "Larissa Ferguson",
+      "Kristel Betriu Diaz",
+      "Connor O'Donnell",
+      "Joachim Kremerskoten",
+      "Wayne S Sossin"
+    ],
+    "abstract": "The truncated constitutive active form of protein kinase C (PKC) called protein kinase M (PKM) plays a role in long-term memory maintenance in vertebrate and invertebrate models. Previously we have shown that the Aplysia Kidney/Brain protein (KIBRA) stabilizes the atypical PKM Apl III, but not the classical PKM Apl I in Aplysia neurons. Expression of Aplysia KIBRA with changes in the proposed atypical PKM binding site does not stabilize PKM Apl III and erases forms of plasticity supported by PKM Apl III. Here, we have examined biomolecular fluorescence complementation (BIFC) between KIBRA variants and PKM Apl III in Aplysia neurons. These KIBRA variants include: the KIBRA with changes in the proposed atypical binding site noted above; a splicing variant that stabilizes PKM Apl I, but not PKM Apl III; and several mutations identified in mammalian WW and C2 domain containing protein 3 (WWC3, a member of the chordate-specific expansion of the KIBRA family) associated with cancer or neurodevelopmental disorders. Surprisingly, we find that some KIBRA variants show BIFC with PKM Apl III but do not stabilize PKM Apl III. We used models of protein-protein interactions (AlphaFold 3) to gain insights into the discrepancy between BIFC and stabilization of PKMs by KIBRA and KIBRA variants and suggest a model where stabilization is linked to stable inhibition of PKMs by KIBRA.",
+    "doi": "10.1186/s13041-026-01321-2",
+    "journal": "Molecular brain",
+    "publication_date": null,
+    "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11168924/pdf/",
+    "keywords": [
+      "Atypical protein kinase C",
+      "Memory retention",
+      "PKC",
+      "Persistent protein kinases",
+      "Protein complexes",
+      "Synaptic plasticity"
+    ],
+    "mesh_terms": [],
+    "affiliations": [
+      "Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill University, Montreal, QC, H3A 2B4, Canada.",
+      "Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill University, Montreal, QC, H3A 2B4, Canada.",
+      "Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill University, Montreal, QC, H3A 2B4, Canada.",
+      "Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill University, Montreal, QC, H3A 2B4, Canada.",
+      "Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill University, Montreal, QC, H3A 2B4, Canada.",
+      "Department Molecular Nephrology, Internal Medicine D, University Hospital of Muenster, 48149, Muenster, Germany.",
+      "Department of Neurology and Neurosurgery, Montreal Neurological Institute, McGill University, Montreal, QC, H3A 2B4, Canada. wayne.sossin@mcgill.ca."
+    ],
+    "language": "eng",
+    "pmc_id": "11168924",
+    "fulltext_available": true,
+    "pdf_path": "data/pdfs/10.1186_s13041-026-01321-2.pdf"
+  }
+]
